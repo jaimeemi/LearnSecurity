@@ -27,7 +27,7 @@ Perfecto, Emilio. Vamos a arrancar con una serie de ejercicios prácticos de **S
 #### Paso 1: Crea el proyecto (si querés te doy comando `spring init`)
 
 * Entidad: `Producto` (id, nombre, precio).
-* Controlador REST: CRUD básico (`/api/productos`).
+* Controlador REST: CRUD básico (`/productos`).
 * Repositorio JPA con datos ficticios en memoria.
 * Base H2 con `data.sql` para poblar productos.
 
